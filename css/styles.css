@@ -1,0 +1,17 @@
+.main-box {
+    box-sizing: border-box;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    padding: 45px;
+}
+
+.red-target {
+    box-sizing: content-box;
+    border: 2px dashed black;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+
+
+}
