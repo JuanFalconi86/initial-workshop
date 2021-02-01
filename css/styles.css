@@ -12,6 +12,32 @@
     background-color: red;
     height: 100px;
     width: 100px;
+}
 
+.juan {
+    color: blue;
+}
+.ironhack-course {
+    color: red;
+}
+.web-developer {
+    color: green;
+    font-weight: bold;
+}
+.stressed {
+    font-weight: bold;
+}
+.help {
+    color: orange;
+    font-weight: bold;
+}
 
+table, th {
+border: 1px solid;
+}
+tbody, td {
+    border: 1px solid;
+}
+.diamond, .heart {
+    color: red;
 }
